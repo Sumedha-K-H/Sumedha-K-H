@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 Hello!, I'm Sumedha 
 Currently an undergraduate in Computer Science Engineering @SJCE,<br>Mysuru.<br>Ask me about problem solving, C++.<br>Love exploring editing tools.<br>
 
 
